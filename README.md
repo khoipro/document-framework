@@ -44,7 +44,7 @@ Place your content.
 *editor.php* - To help you preparing content better. Just copy content in editor, then choose *'view code'* to copy it to your /includes/ files.
 
 ##### License
-Author: http://khoipro.com
-Framework extend: http://purecss.io
-Grid and Typography: http://getskeleton.com
-Editor: http://tinymce.com
+* Author: http://khoipro.com
+* Framework extend: http://purecss.io
+* Grid and Typography: http://getskeleton.com
+* Editor: http://tinymce.com
